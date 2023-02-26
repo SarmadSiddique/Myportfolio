@@ -1,0 +1,25 @@
+
+.floating{
+    /* display: flex; */
+    font-size: 1px;
+    padding: 0px 50px 0px 0px;
+    height: 4.5rem;
+    border: 1px solid rgb(248, 243, 243);
+   
+}
+
+.floating img {
+    transform: scale(0.4);
+}
+
+.floating {
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    border-radius: 16px;
+    /* padding: 0rem 3rem; */
+    align-items: center;
+}.floating>span{
+    font-size: 16px;
+    font-family: sans-serif;
+}
